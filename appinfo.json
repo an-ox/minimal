@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yak@llamasoft.co.uk",
+    "longName": "minimal",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "minimal",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "6469313c-68b7-47e4-96f9-afe2814f84e6",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
